@@ -1,0 +1,23 @@
+{
+  "name": "express-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoatazAbdAlmageed/LEARN-EXPRESS-codecademy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoatazAbdAlmageed/LEARN-EXPRESS-codecademy/issues"
+  },
+  "homepage": "https://github.com/MoatazAbdAlmageed/LEARN-EXPRESS-codecademy#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
